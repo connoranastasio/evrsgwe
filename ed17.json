@@ -13,10 +13,10 @@
             "bundleIdentifier": "com.streamer.tvos",
             "bundleName": "Streamerx.app",
             "developerName": "TheOnlyMo",
-            "subtitle": "Streamer on your Apple TV dude.",
-            "localizedDescription": "Streamer so u can watch stuff on Apple TV dude.",
-            "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-            "headerURL": "https://user-images.githubusercontent.com/96978272/257921371-8707dae9-9d5e-466c-b245-5aded5b23980.png",
+            "subtitle": "Streamer on your AppleTV dude.",
+            "localizedDescription": "Streamer so u can watch stuff on AppleTV dude.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
         "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
@@ -30,7 +30,7 @@
                 {
                   "version": "latest",
                   "date": "2024",
-                  "localizedDescription": "Streamer on your Apple TV dude.",
+                  "localizedDescription": "Streamer on your AppleTV dude.",
                   "downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-tvOS.ipa",
                   "size": 144082146
                 }
@@ -42,10 +42,10 @@
             "bundleIdentifier": "com.streamer.tvos",
             "bundleName": "Streamer.app",
             "developerName": "TheOnlyMo",
-            "subtitle": "Streamer on your Apple TV dude.",
-            "localizedDescription": "Streamer so u can watch stuff on Apple TV dude.",
-            "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-            "headerURL": "https://user-images.githubusercontent.com/96978272/257921371-8707dae9-9d5e-466c-b245-5aded5b23980.png",
+            "subtitle": "Streamer on your AppleTV dude.",
+            "localizedDescription": "Streamer so u can watch stuff on AppleTV dude.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
         "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
@@ -59,7 +59,7 @@
                 {
                   "version": "1.2.41",
                   "date": "2024-06-20",
-                  "localizedDescription": "Streamer on your Apple TV dude.",
+                  "localizedDescription": "Streamer on your AppleTV dude.",
                   "downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-tvOS.ipa",
                   "size": 144082146
                 }
@@ -71,10 +71,10 @@
             "bundleIdentifier": "com.streamer.tvos",
             "bundleName": "Streamer.app",
             "developerName": "TheOnlyMo",
-            "subtitle": "Streamer on your Apple TV dude.",
-            "localizedDescription": "Streamer so u can watch stuff on Apple TV dude.",
-            "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-            "headerURL": "https://user-images.githubusercontent.com/96978272/257921371-8707dae9-9d5e-466c-b245-5aded5b23980.png",
+            "subtitle": "Streamer on your AppleTV dude.",
+            "localizedDescription": "Streamer so u can watch stuff on AppleTV dude.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
         "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
@@ -88,7 +88,7 @@
                 {
                   "version": "1.2.41",
                   "date": "2024-06-20",
-                  "localizedDescription": "Streamer on your Apple TV dude.",
+                  "localizedDescription": "Streamer on your AppleTV dude.",
                   "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.41/Streamer-tvOS.ipa",
                   "size": 144082146
                 }
@@ -100,10 +100,10 @@
             "bundleIdentifier": "com.streamer.tvos",
             "bundleName": "Streamer.app",
             "developerName": "TheOnlyMo",
-            "subtitle": "Streamer on your Apple TV dude.",
-            "localizedDescription": "Streamer so u can watch stuff on Apple TV dude.",
-            "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-            "headerURL": "https://user-images.githubusercontent.com/96978272/257921371-8707dae9-9d5e-466c-b245-5aded5b23980.png",
+            "subtitle": "Streamer on your AppleTV dude.",
+            "localizedDescription": "Streamer so u can watch stuff on AppleTV dude.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
         "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
@@ -117,7 +117,7 @@
                 {
                   "version": "1.2.40",
                   "date": "2024-06-02",
-                  "localizedDescription": "Streamer on your Apple TV dude.",
+                  "localizedDescription": "Streamer on your AppleTV dude.",
                   "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.40/Streamer-tvOS.ipa",
                   "size": 144082146
                 }
@@ -129,10 +129,10 @@
             "bundleIdentifier": "com.tivimax.premium",
             "bundleName": "TiviMaxTVx.app",
             "developerName": "TiviMax",
-            "subtitle": "Best IPTV Player for tvOS",
-            "localizedDescription": "Best IPTV Player for tvOS",
-            "iconURL": "https://static.iapps.ir/apps/file/image/bc68cd84-33cb-467b-9e13-dfa19b41b8b6-80be02ed-8372-445c-a2e8-146a5042d172/250x250.jpg",
-            "headerURL": "https://d4.alternativeto.net/oTDx5f2rfS5pCXcCSBJSez7EcrpQ4H0L7IG4cjAm12g/rs:fit:2400:2400:0/g:ce:0:0/YWJzOi8vZGlzdC9zL3RpdmltYXRlXzYyODcwN19mdWxsLnBuZw.jpg",
+            "subtitle": "Best IPTV Player for AppleTV",
+            "localizedDescription": "Best IPTV Player for AppleTV",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ti.jpg?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/th.jpg?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -140,7 +140,7 @@
                 {
                   "version": "3.4.5",
                   "date": "2024",
-                  "localizedDescription": "Best IPTV Player for tvOS",
+                  "localizedDescription": "Best IPTV Player for AppleTV",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/lihoihv.tipa",
                   "size": 144082146
 		}
@@ -152,10 +152,10 @@
             "bundleIdentifier": "com.tivimax.premium",
             "bundleName": "TiviMaxTVx.app",
             "developerName": "TiviMax",
-            "subtitle": "Best IPTV Player for tvOS",
-            "localizedDescription": "Best IPTV Player for tvOS",
-            "iconURL": "https://static.iapps.ir/apps/file/image/bc68cd84-33cb-467b-9e13-dfa19b41b8b6-80be02ed-8372-445c-a2e8-146a5042d172/250x250.jpg",
-            "headerURL": "https://d4.alternativeto.net/oTDx5f2rfS5pCXcCSBJSez7EcrpQ4H0L7IG4cjAm12g/rs:fit:2400:2400:0/g:ce:0:0/YWJzOi8vZGlzdC9zL3RpdmltYXRlXzYyODcwN19mdWxsLnBuZw.jpg",
+            "subtitle": "Best IPTV Player for AppleTV",
+            "localizedDescription": "Best IPTV Player for AppleTV",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ti.jpg?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/th.jpg?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -163,7 +163,7 @@
                 {
                   "version": "3.4.1",
                   "date": "2024",
-                  "localizedDescription": "Best IPTV Player for tvOS",
+                  "localizedDescription": "Best IPTV Player for AppleTV",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/qwfekjbqwf.ipa",
                   "size": 144082146
 		}
@@ -175,10 +175,10 @@
             "bundleIdentifier": "com.tivimax.premium",
             "bundleName": "TiviMaxTVx.app",
             "developerName": "TiviMax",
-            "subtitle": "Best IPTV Player for tvOS",
-            "localizedDescription": "Best IPTV Player for tvOS",
-            "iconURL": "https://static.iapps.ir/apps/file/image/bc68cd84-33cb-467b-9e13-dfa19b41b8b6-80be02ed-8372-445c-a2e8-146a5042d172/250x250.jpg",
-            "headerURL": "https://d4.alternativeto.net/oTDx5f2rfS5pCXcCSBJSez7EcrpQ4H0L7IG4cjAm12g/rs:fit:2400:2400:0/g:ce:0:0/YWJzOi8vZGlzdC9zL3RpdmltYXRlXzYyODcwN19mdWxsLnBuZw.jpg",
+            "subtitle": "Best IPTV Player for AppleTV",
+            "localizedDescription": "Best IPTV Player for AppleTV",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ti.jpg?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/th.jpg?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -186,8 +186,123 @@
                 {
                   "version": "3.3.0",
                   "date": "2024",
-                  "localizedDescription": "Best IPTV Player for tvOS",
+                  "localizedDescription": "Best IPTV Player for AppleTV",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/eqrgljnbf.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "StbEmuTV v4.5.0",
+            "bundleIdentifier": "app.stbemutv.com",
+            "bundleName": "StbemuTV.app",
+            "developerName": "StbemuTV",
+            "subtitle": "StbemuTV just in case",
+            "localizedDescription": "StbemuTV just in case",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "4.5.0",
+                  "date": "2024",
+                  "localizedDescription": "StbemuTV just in case",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/su.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "iWebTV Pro v2.0.43",
+            "bundleIdentifier": "com.swishly.webtvpro",
+            "bundleName": "tvosWebTVPRO.app",
+            "developerName": "iWebTV",
+            "subtitle": "Send stuff from iPhone app to watch on AppleTV",
+            "localizedDescription": "Send stuff from iPhone app to watch on AppleTV",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.0.43",
+                  "date": "2024",
+                  "localizedDescription": "Send stuff from iPhone app to watch on AppleTV",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/iv.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Freevee v1.6.6 n0-ads",
+            "bundleIdentifier": "com.amazon.cosmiccrisp",
+            "bundleName": "ignition.app",
+            "developerName": "Freevee",
+            "subtitle": "Freevee n0-ads - USA geoblocked",
+            "localizedDescription": "Freevee n0-ads - USA geoblocked",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.6.6",
+                  "date": "2024",
+                  "localizedDescription": "Freevee n0-ads - USA geoblocked",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/fe.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Netflix v2.9.1 decrypted - Official",
+            "bundleIdentifier": "com.netflix.Netflix",
+            "bundleName": "Hopper.app",
+            "developerName": "Netflix",
+            "subtitle": "Netflix v2.9.1 decrypted - Official",
+            "localizedDescription": "Netflix v2.9.1 decrypted - Official",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.9.1",
+                  "date": "2024",
+                  "localizedDescription": "Netflix v2.9.1 decrypted - Official",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/fe.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "PLEX v8.2.2 cr@ck3d",
+            "bundleIdentifier": "com.plexapp.plex",
+            "bundleName": "PlexTV.app",
+            "developerName": "PLEX",
+            "subtitle": "PLEX v8.2.2 cr@ck3d",
+            "localizedDescription": "PLEX v8.2.2 cr@ck3d",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "5.53",
+                  "date": "2024",
+                  "localizedDescription": "PLEX v8.2.2 cr@ck3d",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/px.ipa",
                   "size": 144082146
 		}
               ],
@@ -200,8 +315,8 @@
             "developerName": "Telemundo",
             "subtitle": "PlutoTV w n0-ads",
             "localizedDescription": "PlutoTV w n0-ads",
-            "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-            "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -209,31 +324,8 @@
                 {
                   "version": "5.53",
                   "date": "2024",
-                  "localizedDescription": "Telemundo app - USA geoblocked",
+                  "localizedDescription": "PlutoTV v5.53 n0-ads",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/wdeflkjh.ipa",
-                  "size": 144082146
-		}
-              ],
-            "appPermissions": {}
-        },
-	{
-	    "name": "Xumo Play v2.3.13 n0-ads",
-            "bundleIdentifier": "com.v.xumo",
-            "bundleName": "Xumo.app",
-            "developerName": "Telemundo",
-            "subtitle": "PlutoTV w n0-ads",
-            "localizedDescription": "XumoPlay w n0-ads",
-            "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-            "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-            ],
-            "versions": [
-                {
-                  "version": "2.3.13",
-                  "date": "2024",
-                  "localizedDescription": "Xumo Play n0-ads",
-                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/pi2rpij2r3.ipa",
                   "size": 144082146
 		}
               ],
@@ -246,8 +338,8 @@
             "developerName": "Telemundo",
             "subtitle": "Telemundo app - USA geoblocked",
             "localizedDescription": "Telemundo app - USA geoblocked",
-            "iconURL": "https://www.publico.es/vpn/wp-content/uploads/2024/07/Telemundo_logo_2012.svg_-192x150.png",
-            "headerURL": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F82c35d4b0d5a80abefdf3208857f00d41a68c7522fd13b806aa6b437842792fe.png",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/telei.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/teleh1.jpg?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -263,14 +355,60 @@
             "appPermissions": {}
         },
 	{
+	    "name": "Xumo Play v2.3.13 n0-ads",
+            "bundleIdentifier": "com.v.xumo",
+            "bundleName": "Xumo.app",
+            "developerName": "Telemundo",
+            "subtitle": "PlutoTV w n0-ads",
+            "localizedDescription": "XumoPlay w n0-ads",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.3.13",
+                  "date": "2024",
+                  "localizedDescription": "Xumo Play n0-ads",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/pi2rpij2r3.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Youtube v4.22.01 - Official",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "bundleName": "YouTubeUnstable.app",
+            "developerName": "Youtube",
+            "subtitle": "Youtube decrypted - just in case",
+            "localizedDescription": "Youtube decrypted - just in case",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "4.22.01",
+                  "date": "2024",
+                  "localizedDescription": "Youtube decrypted - just in case",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/ye.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
 	    "name": "RetroArchTV STABLE v1.19.1",
             "bundleIdentifier": "com.libretro.dist.tvos.RetroArch",
             "bundleName": "RetroArchTVx.app",
             "developerName": "Libretro",
-            "subtitle": "RetroArch is a frontend for emulators, game engines and media players.",
-            "localizedDescription": "Too much awesome stuff to fit in this little space! Check out the blog at libretro.com.",
-            "iconURL": "https://github.com/libretro/RetroArch/blob/master/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-57-2.png?raw=true",
-            "headerURL": "https://github.com/libretro/RetroArch/raw/master/docs/ozone-main-menu.jpg",
+            "subtitle": "STABLE: Dreamcast and PSP need JIT. Open with JIT from within TS.",
+            "localizedDescription": "STABLE: Dreamcast and PSP need JIT. Open with JIT from within TS.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ri.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rh.jpg?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
         "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot1.png",
@@ -283,7 +421,7 @@
                 {
                   "version": "1.19.1",
                   "date": "2024-06-04",
-                  "localizedDescription": "STABLE: Dreamcast and PSP need JIT.",
+                  "localizedDescription": "STABLE: Dreamcast and PSP need JIT. Open with JIT from within TS.",
                   "downloadURL": "https://buildbot.libretro.com/stable/1.19.1/apple/tvos-arm64/RetroArchTV.ipa",
                   "size": 144082146
 		}
@@ -295,10 +433,10 @@
             "bundleIdentifier": "com.libretro.dist.tvos.RetroArch",
             "bundleName": "RetroArchTVx.app",
             "developerName": "Libretro",
-            "subtitle": "RetroArch is a frontend for emulators, game engines and media players.",
-            "localizedDescription": "Too much awesome stuff to fit in this little space! Check out the blog at libretro.com.",
-            "iconURL": "https://github.com/libretro/RetroArch/blob/master/pkg/apple/iOS/Resources/Media.xcassets/AppIcon.appiconset/Icon-57-2.png?raw=true",
-            "headerURL": "https://github.com/libretro/RetroArch/raw/master/docs/ozone-main-menu.jpg",
+            "subtitle": "NIGHTLY: Dreamcast and PSP need JIT. Open with JIT from within TS.",
+            "localizedDescription": "NIGHTLY: Dreamcast and PSP need JIT. Open with JIT from within TS.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ri.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rh.jpg?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
         "https://raw.githubusercontent.com/libretro/docs/master/docs/image/retroarch/altstore/screenshot1.png",
@@ -311,31 +449,8 @@
                 {
                   "version": "NIGHTLY",
                   "date": "2024",
-                  "localizedDescription": "NIGHTLY: Dreamcast and PSP need JIT.",
+                  "localizedDescription": "NIGHTLY: Dreamcast and PSP need JIT. Open with JIT from within TS.",
                   "downloadURL": "https://buildbot.libretro.com/nightly/apple/tvos-arm64/RetroArchTV.ipa",
-                  "size": 144082146
-		}
-              ],
-            "appPermissions": {}
-        },
-	{
-	    "name": "Provenance v2.2.0",
-            "bundleIdentifier": "org.provenance-emu.provenance",
-            "bundleName": "Provenance.app",
-            "developerName": "JoeMatt",
-            "subtitle": "Emulators, nice frontend for tvOS",
-            "localizedDescription": "Emulators, nice frontend for tvOS.",
-            "iconURL": "https://github.com/Provenance-Emu/Provenance/blob/develop/Provenance/Resources/Assets.xcassets/AppIcon-XL.appiconset/Icon-60@3x.png?raw=true",
-            "headerURL": "https://github.com/Provenance-Emu/Provenance/blob/develop/ProvenanceTV/TVAssets.xcassets/App%20Icon%20&%20Top%20Shelf%20Image.brandassets/Top%20Shelf%20Image.imageset/topshelf.png?raw=true",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-          	],
-            "versions": [
-                {
-                  "version": "2.2.0",
-                  "date": "2022-12-09",
-                  "localizedDescription": "Emulators, nice frontend for tvOS",
-                  "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance-tvOS.ipa",
                   "size": 144082146
 		}
               ],
@@ -348,8 +463,8 @@
             "developerName": "yoshisuga",
             "subtitle": "This is a port of MAME for tvOS",
             "localizedDescription": "This is a port of MAME for tvOS.",
-            "iconURL": "https://github.com/yoshisuga/MAME4iOS/blob/master/xcode/MAME4iOS/MAME4tvOS/Assets.xcassets/App%20Icon%20&%20Top%20Shelf%20Image.brandassets/App%20Icon.imagestack/Middle.imagestacklayer/Content.imageset/MAMELogoTM.mid.png?raw=true",
-            "headerURL": "https://github.com/yoshisuga/MAME4iOS/raw/master/README.images/screenshot-atv-small.png",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mi.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mh.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
           	],
@@ -365,14 +480,60 @@
             "appPermissions": {}
         },
 	{
+	    "name": "PPSSPP v1.11.3-635 Unsandboxed",
+            "bundleIdentifier": "org.marekvi.ppsspp",
+            "bundleName": "PPSSPP.app",
+            "developerName": "PPSSPP",
+            "subtitle": "Early PPSSPP build for AppleTV. Works, but holding circle on pad too long returns to springboard",
+            "localizedDescription": "Early PPSSPP build for AppleTV, works but holding circle on pad too long returns to springboard.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+          	],
+            "versions": [
+                {
+                  "version": "1.11.3-635",
+                  "date": "2024",
+                  "localizedDescription": "Early PPSSPP build for AppleTV. Works, but holding circle on pad too long returns to springboard",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/pp.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Provenance v2.2.0",
+            "bundleIdentifier": "org.provenance-emu.provenance",
+            "bundleName": "Provenance.app",
+            "developerName": "JoeMatt",
+            "subtitle": "Emulators, nice frontend for tvOS",
+            "localizedDescription": "Emulators, nice frontend for tvOS.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/pi.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ph.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+          	],
+            "versions": [
+                {
+                  "version": "2.2.0",
+                  "date": "2022-12-09",
+                  "localizedDescription": "Emulators, nice frontend for tvOS",
+                  "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance-tvOS.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
 	    "name": "misaka for tvOS v5.3",
             "bundleIdentifier": "com.straight-tamago.misakaRS-ATV",
             "bundleName": "J.app",
             "developerName": "misaka",
-            "subtitle": "Filemanager and OTA block.",
-            "localizedDescription": "Filemanager and OTA block.",
-            "iconURL": "https://media.idownloadblog.com/wp-content/uploads/2023/08/Misaka-v2.0-app-icon-768x537.jpg",
-            "headerURL": "https://raw.githubusercontent.com/straight-tamago/misaka-tvOS/main/02.png",
+            "subtitle": "FileManager and OTA block.",
+            "localizedDescription": "FileManager and OTA block.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mii.jpg?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mih.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -380,7 +541,7 @@
                 {
                   "version": "5.3",
                   "date": "2024-01-26",
-                  "localizedDescription": "Filemanager and OTA block.",
+                  "localizedDescription": "FileManager and OTA block.",
                   "downloadURL": "https://github.com/straight-tamago/misaka-tvOS/releases/download/5.3/misaka-for-tvOS-v5.3.ipa",
                   "size": 144082146
 		}
@@ -392,10 +553,10 @@
             "bundleIdentifier": "com.straight-tamago.misakaRS-ATV",
             "bundleName": "J.app",
             "developerName": "misaka",
-            "subtitle": "Filemanager and OTA block. Patched for crashes on HD. Laggy but works",
-            "localizedDescription": "Filemanager and OTA block. Patched for crashes on HD. Laggy but works.",
-            "iconURL": "https://media.idownloadblog.com/wp-content/uploads/2023/08/Misaka-v2.0-app-icon-768x537.jpg",
-            "headerURL": "https://raw.githubusercontent.com/straight-tamago/misaka-tvOS/main/02.png",
+            "subtitle": "FileManager and OTA block. Patched for crashes on ATV HD. Laggy but works",
+            "localizedDescription": "FileManager and OTA block. Patched for crashes on ATV HD. Laggy but works.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mii.jpg?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mih.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -403,7 +564,7 @@
                 {
                   "version": "5.3",
                   "date": "2024-01-26",
-                  "localizedDescription": "Filemanager and OTA block. Patched for crashes on HD. Laggy but works.",
+                  "localizedDescription": "FileManager and OTA block. Patched for crashes on ATV HD. Laggy but works.",
                   "downloadURL": "https://github.com/straight-tamago/misaka-tvOS/releases/download/5.3/misaka-for-tvOS-v5.3.ipa",
                   "size": 144082146
 		}
@@ -417,8 +578,8 @@
             "developerName": "zenzeq",
             "subtitle": "Install Trollhelper",
             "localizedDescription": "Install Trollhelper.",
-            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyO0uZAqQELq_M0YNuxcxwo_1AD6wgBTPzg&s",
-            "headerURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyO0uZAqQELq_M0YNuxcxwo_1AD6wgBTPzg&s",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/trolli.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/trollh.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -440,8 +601,8 @@
             "developerName": "Fiore",
             "subtitle": "Decrypt apps",
             "localizedDescription": "Decrypt apps.",
-            "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-            "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -463,8 +624,8 @@
             "developerName": "whitetailani",
             "subtitle": "tvOS File Manager RC7 TS Patched",
             "localizedDescription": "tvOS File Manager RC7 TS Patched",
-            "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-            "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
@@ -486,8 +647,8 @@
           "developerName": "nito",
           "subtitle": "SuperMario64 60 FPS",
           "localizedDescription": "SuperMario64 60 FPS",
-          "iconURL": "https://cdn2.steamgriddb.com/grid/fe895c991a5152476a051ae74fcbf8ac.png",
-          "headerURL": "https://cdn2.steamgriddb.com/grid/fe895c991a5152476a051ae74fcbf8ac.png",
+          "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sui.png?raw=true",
+          "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/suh.png?raw=true",
           "tintColor": "#60DF89",
           "screenshotURLs": [
           ],
@@ -532,8 +693,8 @@
           "developerName": "Homebrew",
           "subtitle": "Homebrew Safari Browser.",
           "localizedDescription": "Homebrew Safari Browser.",
-          "iconURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-          "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
+          "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+          "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
           "tintColor": "#60DF89",
           "screenshotURLs": [
           ],
@@ -543,6 +704,29 @@
                 "date": "2022-12-11",
                 "localizedDescription": "Homebrew Safari Browser.",
                 "downloadURL": "https://github.com/Bonnie39/trollappstv.testrepo/releases/download/thing-so-i-can-distribute-ipa-1.2/browser.ipa",
+                "size": 144082146
+              }
+            ],
+          "appPermissions": {}
+        },
+	{
+          "name": "WireGuardtvOS",
+          "bundleIdentifier": "group.com.nito.wireguard-ios",
+          "bundleName": "WireGuardtvOS.app",
+          "developerName": "WireGuard",
+          "subtitle": "WireGuard VPN for tvOS 14.0-17.0.",
+          "localizedDescription": "WireGuard VPN for tvOS 14.0-17.0.",
+          "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+          "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/appsbasic.png?raw=true",
+          "tintColor": "#60DF89",
+          "screenshotURLs": [
+          ],
+          "versions": [
+              {
+                "version": "1.0",
+                "date": "2022-12-11",
+                "localizedDescription": "WireGuard VPN for tvOS 14.0-17.0.",
+                "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/wd.ipa",
                 "size": 144082146
               }
             ],
