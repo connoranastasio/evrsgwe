@@ -211,12 +211,12 @@
             "appPermissions": {}
         },
 	{
-	    "name": "CBC Gem v1.18.1 spoof to v11.2.0",
+	    "name": "CBC Gem v1.18.1 FIXED for tvOS 16.x",
             "bundleIdentifier": "ca.cbc.CBCTV",
             "bundleName": "Gem_TvOS.app",
             "developerName": "CBC Gem",
-            "subtitle": "CBC Gem v1.18.1 spoof to v11.2.0",
-            "localizedDescription": "Spoofed to work for tvOS 16 and lower",
+            "subtitle": "CBC Gem v1.18.1 FIXED for tvOS 16.x",
+            "localizedDescription": "<Req. minimum tvOS 15.0> Spoofed to work for tvOS 16.x and lower. Bypasses BS you need to update OS message",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/cmi.jpg?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/cmh.png?raw=true",
             "tintColor": "#60DF89",
@@ -224,9 +224,9 @@
             ],
             "versions": [
                 {
-                  "version": "11.2.0",
+                  "version": "99.99.9",
                   "date": "2024",
-                  "localizedDescription": "CBC Gem v1.18.1 spoof to v11.2.0",
+                  "localizedDescription": "<Req. minimum tvOS 15.0> Spoofed to work for tvOS 16.x and lower",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/cm.ipa",
                   "size": 144082146
 		}
@@ -234,12 +234,12 @@
             "appPermissions": {}
         },
 	{
-	    "name": "Crunchyroll FIX for tvOS 16.1 & lower (3.12.0to3.18.0 spoof)",
+	    "name": "Crunchyroll FIXED for tvOS 16.x (v3.12.0 spoofed)",
             "bundleIdentifier": "com.crunchyroll.iphone",
             "bundleName": "Crunchyroll.app",
             "developerName": "Crunchyroll",
-            "subtitle": "Crunchyroll FIX tvOS 16.1 & lower (3.12.0to3.18.0 spoof)",
-            "localizedDescription": "Crunchyroll FIX tvOS 16.1 & lower (3.12.0to3.18.0 spoof)",
+            "subtitle": "Crunchyroll FIXED tvOS 16.x (v3.12.0 spoofed)",
+            "localizedDescription": "<Req. minimum tvOS 16.1> Crunchyroll FIXED tvOS 16.x (v3.12.0 spoofed)",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/crui.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/cruh.png?raw=true",
             "tintColor": "#60DF89",
@@ -247,9 +247,9 @@
             ],
             "versions": [
                 {
-                  "version": "3.18.0",
+                  "version": "9.99.9",
                   "date": "2024",
-                  "localizedDescription": "Crunchyroll FIX tvOS 16.1 and lower (3.12.0to3.18.0 spoof)",
+                  "localizedDescription": "<Req. minimum tvOS 16.1> Crunchyroll FIXED tvOS 16.x (v3.12.0 spoofed)",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/cru.ipa",
                   "size": 144082146
 		}
@@ -297,6 +297,29 @@
                   "date": "2024",
                   "localizedDescription": "Infuse PRO v7.7.1 cr@cked",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/in.tipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "NBC v10.5.0 official (spoofed)",
+            "bundleIdentifier": "com.nbcuni.nbc.portal",
+            "bundleName": "nbc-portal-tv.app",
+            "developerName": "NBC",
+            "subtitle": "NBC v10.5.0 official (spoofed)",
+            "localizedDescription": "<Req. minimum tvOS 15.0> USA geoblocked. No update nagging. Spoofed to 99.xx.x ",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/nci.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/nch.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "99.9.9",
+                  "date": "2024",
+                  "localizedDescription": "NBC v10.5.0 Official (spoofed)",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/nc.tipa",
                   "size": 144082146
 		}
               ],
@@ -372,12 +395,58 @@
             "appPermissions": {}
         },
 	{
-	    "name": "Telemundo v10.4.6",
+	    "name": "ReactTube",
+            "bundleIdentifier": "com.duell10111.reacttube",
+            "bundleName": "reacttube.app",
+            "developerName": "ReactTube",
+            "subtitle": "A YT alternative for AppleTV, no ads!",
+            "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rti.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rth.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "0.1.2",
+                  "date": "2024",
+                  "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/rt.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Sling v5.21.2 official",
+            "bundleIdentifier": "com.dishdigital.sling",
+            "bundleName": "Sling.app",
+            "developerName": "Sling",
+            "subtitle": "Sling official app, USA geoblocked",
+            "localizedDescription": "<Req minimum tvOS 15.1> Sling oficial app, Has some free TV, USA geoblocked",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sgi.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sgh.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "5.21.2",
+                  "date": "2024",
+                  "localizedDescription": "Sling official app, USA geoblocked",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/sg.tipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Telemundo v10.4.6 Spoofed",
             "bundleIdentifier": "com.nbcuni.telemundo.tve",
             "bundleName": "nbc-portal-tv.app",
             "developerName": "Telemundo",
-            "subtitle": "Telemundo app - USA geoblocked",
-            "localizedDescription": "Telemundo app - USA geoblocked",
+            "subtitle": "Telemundo app - USA geoblocked, no update nagging,",
+            "localizedDescription": "<Req. minimum tvOS 15.0> Telemundo app - USA geoblocked, No update nagging, spoofed to v99.9.9",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/telei.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/teleh1.jpg?raw=true",
             "tintColor": "#60DF89",
@@ -385,9 +454,9 @@
             ],
             "versions": [
                 {
-                  "version": "10.4.6",
+                  "version": "99.9.9",
                   "date": "2024",
-                  "localizedDescription": "Telemundo app - USA geoblocked",
+                  "localizedDescription": "<Req. tvOS 15.0> Telemundo app - USA geoblocked, No update nagging",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/tworld.tipa",
                   "size": 144082146
 		}
@@ -417,6 +486,28 @@
               ],
             "appPermissions": {}
         },
+	{
+	    "name": "ViX v4.27.3 official (spoofed)",
+            "bundleIdentifier": "com.univision.prendetv",
+            "bundleName": "ViX.app",
+            "developerName": "ViX",
+            "subtitle": "ViX v4.27.3 spoofed USA geoblocked",
+            "localizedDescription": "<Req minimum tvOS15.0> ViX official app, USA geoblocked, no update nagging, spoofed 9.xx.x",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/vxi.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/vxh.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "9.99.9",
+                  "date": "2024",
+                  "localizedDescription": "ViX v4.27.3 spoofed USA geoblocked",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/vx.tipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
 	{
 	    "name": "Xumo Play v2.3.13 n0-ads",
             "bundleIdentifier": "com.v.xumo",
