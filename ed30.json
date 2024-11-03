@@ -508,6 +508,7 @@
 		}
               ],
             "appPermissions": {}
+	},
 	{
 	    "name": "Xumo Play v2.3.13 n0-ads",
             "bundleIdentifier": "com.v.xumo",
