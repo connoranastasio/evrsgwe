@@ -38,64 +38,6 @@
             "appPermissions": {}
         },
 	{
-            "name": "Streamer Apple TV LATEST",
-            "bundleIdentifier": "com.streamer.tvos",
-            "bundleName": "Streamer.app",
-            "developerName": "TheOnlyMo",
-            "subtitle": "Streamer on your AppleTV dude.",
-            "localizedDescription": "Streamer so u can watch stuff on AppleTV dude.",
-            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
-            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-        "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
-        "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
-        "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
-        "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
-        "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
-        "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
-            ],
-            "versions": [
-                {
-                  "version": "1.2.41",
-                  "date": "2024-06-20",
-                  "localizedDescription": "Streamer on your AppleTV dude.",
-                  "downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-tvOS.ipa",
-                  "size": 144082146
-                }
-              ],
-            "appPermissions": {}
-        },
-	{
-            "name": "Streamer Apple TV v1.2.41",
-            "bundleIdentifier": "com.streamer.tvos",
-            "bundleName": "Streamer.app",
-            "developerName": "TheOnlyMo",
-            "subtitle": "Streamer on your AppleTV dude.",
-            "localizedDescription": "Streamer so u can watch stuff on AppleTV dude.",
-            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
-            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-        "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
-        "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
-        "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
-        "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
-        "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
-        "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
-            ],
-            "versions": [
-                {
-                  "version": "1.2.41",
-                  "date": "2024-06-20",
-                  "localizedDescription": "Streamer on your AppleTV dude.",
-                  "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.41/Streamer-tvOS.ipa",
-                  "size": 144082146
-                }
-              ],
-            "appPermissions": {}
-        },
-	{
 	    "name": "TiviMax v3.4.5",
             "bundleIdentifier": "com.tivimax.premium",
             "bundleName": "TiviMaxTVx.app",
