@@ -153,7 +153,7 @@
             "appPermissions": {}
         },
 	{
-	    "name": "CBC Gem v1.18.1 FIXED for tvOS 16.x",
+	    "name": "CBC Gem v1.18.1 FIXED for tvOS 16.x EoL",
             "bundleIdentifier": "ca.cbc.CBCTV",
             "bundleName": "Gem_TvOS.app",
             "developerName": "CBC Gem",
@@ -176,7 +176,30 @@
             "appPermissions": {}
         },
 	{
-	    "name": "Crunchyroll FIXED for tvOS 16.x (v3.12.0 spoofed)",
+	    "name": "CTV v5.53.0 FIXED for tvOS 16.x EoL",
+            "bundleIdentifier": "ca.ctv.ctvipadapp",
+            "bundleName": "CTVtvOS.app",
+            "developerName": "CTV",
+            "subtitle": "CTV v5.53.0 FIXED for tvOS 16.x",
+            "localizedDescription": "<Req. minimum tvOS 16.0> Spoofed to work for ALL tvOS 16.x. Bypasses BS you need to update OS message",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/vtci.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/vtch.jpg?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "99.99.9",
+                  "date": "2024",
+                  "localizedDescription": "<Req. minimum tvOS 16.0> Spoofed to work for tvOS ALL 16.x",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/vtc.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Crunchyroll FIXED for tvOS 16.x EoL (v3.12.0 spoofed)",
             "bundleIdentifier": "com.crunchyroll.iphone",
             "bundleName": "Crunchyroll.app",
             "developerName": "Crunchyroll",
@@ -337,7 +360,30 @@
             "appPermissions": {}
         },
 	{
-	    "name": "ReactTube",
+	    "name": "ReactTube v0.1.3",
+            "bundleIdentifier": "com.duell10111.reacttube",
+            "bundleName": "reacttube.app",
+            "developerName": "ReactTube",
+            "subtitle": "A YT alternative for AppleTV, no ads!",
+            "localizedDescription": "ReactTube v0.1.3, YT no ads alternative",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rti.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rth.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "0.1.3",
+                  "date": "2024",
+                  "localizedDescription": "ReactTube v0.1.3, YT no ads alternative",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/rta.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "ReactTube v0.1.2",
             "bundleIdentifier": "com.duell10111.reacttube",
             "bundleName": "reacttube.app",
             "developerName": "ReactTube",
@@ -646,7 +692,7 @@
             "appPermissions": {}
         },
 	{
-	    "name": "misaka for tvOS v5.3 ATV HD Patched",
+	    "name": "misaka for tvOS v5.3 PATCHED for Apple TV HD ",
             "bundleIdentifier": "com.straight-tamago.misakaRS-ATV",
             "bundleName": "J.app",
             "developerName": "misaka",
@@ -663,6 +709,29 @@
                   "date": "2024-01-26",
                   "localizedDescription": "FileManager and OTA block. Patched for crashes on ATV HD. Laggy but works.",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/mhd.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "misaka for tvOS v5.3 OTA Update BLOCKER-FIX tvOS 16.0-16.4.1",
+            "bundleIdentifier": "com.straight-tamago.misakaRS-ATV",
+            "bundleName": "J.app",
+            "developerName": "misaka",
+            "subtitle": "Includes Modded PROPER OTA block for lower tvOS 16 versions. (fixes Dreaded 16.6 OTA nag)(tvOS 16.5/16.6/17.0 dont have the issue)",
+            "localizedDescription": "Includes Modded PROPER OTA block for lower tvOS 16 versions. (fixes Dreaded 16.6 OTA nag)(tvOS 16.5/16.6/17.0 dont have the issue)",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mii.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/mih.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "5.3",
+                  "date": "2024-01-26",
+                  "localizedDescription": "FileManager and OTA block. Patched for crashes on ATV HD. Laggy but works.",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/mhe.ipa",
                   "size": 144082146
 		}
               ],
