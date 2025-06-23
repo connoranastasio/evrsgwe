@@ -39,8 +39,8 @@
         },
 	{
             "name": "Streamer Apple TV v1.3.0(24)",
-            "bundleIdentifier": "com.streamer.tvos",
-            "bundleName": "Streamerx.app",
+            "bundleIdentifier": "com.streamerapp.ios",
+            "bundleName": "Streamer.app",
             "developerName": "TheOnlyMo",
             "subtitle": "Streamer on your AppleTV dude.",
             "localizedDescription": "Newer version , after github DMCA.",
@@ -389,12 +389,12 @@
             "appPermissions": {}
         },
 	{
-	    "name": "ReactTube v0.1.3",
+	    "name": "ReactTube v0.2.0",
             "bundleIdentifier": "com.duell10111.reacttube",
             "bundleName": "reacttube.app",
             "developerName": "ReactTube",
             "subtitle": "A YT alternative for AppleTV, no ads!",
-            "localizedDescription": "ReactTube v0.1.3, YT no ads alternative",
+            "localizedDescription": "ReactTube v0.2.0, YT no ads alternative",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rti.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rth.png?raw=true",
             "tintColor": "#60DF89",
@@ -402,33 +402,10 @@
             ],
             "versions": [
                 {
-                  "version": "0.1.3",
+                  "version": "0.2.0",
                   "date": "2024",
-                  "localizedDescription": "ReactTube v0.1.3, YT no ads alternative",
+                  "localizedDescription": "ReactTube v0.2.0, YT no ads alternative",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/rta.ipa",
-                  "size": 144082146
-		}
-              ],
-            "appPermissions": {}
-        },
-	{
-	    "name": "ReactTube v0.1.2",
-            "bundleIdentifier": "com.duell10111.reacttube",
-            "bundleName": "reacttube.app",
-            "developerName": "ReactTube",
-            "subtitle": "A YT alternative for AppleTV, no ads!",
-            "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
-            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rti.png?raw=true",
-            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rth.png?raw=true",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-            ],
-            "versions": [
-                {
-                  "version": "0.1.2",
-                  "date": "2024",
-                  "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
-                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/rt.ipa",
                   "size": 144082146
 		}
               ],
