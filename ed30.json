@@ -279,7 +279,7 @@
             "bundleName": "infuse.app",
             "developerName": "Infuse",
             "subtitle": "Infuse PRO v7.7.1 cr@cked",
-            "localizedDescription": "Infuse PRO v7.7.1 cr@cked",
+            "localizedDescription": "Infuse PRO v7.7.1 cr@cked.",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ini.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/inh.png?raw=true",
             "tintColor": "#60DF89",
@@ -287,7 +287,7 @@
             ],
             "versions": [
                 {
-                  "version": "7.1.1",
+                  "version": "7.7.1",
                   "date": "2024",
                   "localizedDescription": "Infuse PRO v7.7.1 cr@cked",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/in.tipa",
@@ -412,29 +412,6 @@
             "appPermissions": {}
         },
 	{
-	    "name": "ReactTube v0.1.2",
-            "bundleIdentifier": "com.duell10111.reacttube",
-            "bundleName": "reacttube.app",
-            "developerName": "ReactTube",
-            "subtitle": "A YT alternative for AppleTV, no ads!",
-            "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
-            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rti.png?raw=true",
-            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rth.png?raw=true",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-            ],
-            "versions": [
-                {
-                  "version": "0.1.2",
-                  "date": "2024",
-                  "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
-                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/rt.ipa",
-                  "size": 144082146
-		}
-              ],
-            "appPermissions": {}
-        },
-	{
 	    "name": "Sling v5.21.2 official",
             "bundleIdentifier": "com.dishdigital.sling",
             "bundleName": "Sling.app",
@@ -552,9 +529,9 @@
 	{
 	    "name": "Youtube v4.22.01 - Official",
             "bundleIdentifier": "com.google.ios.youtube",
-            "bundleName": "YouTubeUnstable.app",
+            "bundleName": "YouTubeUnstablex.app",
             "developerName": "Youtube",
-            "subtitle": "Youtube decrypted - just in case",
+            "subtitle": "Youtube decrypted - just in case. Will always say GET",
             "localizedDescription": "Youtube decrypted - just in case",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/yoi.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/yoh.png?raw=true",
@@ -575,9 +552,9 @@
 	{
 	    "name": "Youtube v4.50.03 n0-ads****",
             "bundleIdentifier": "com.google.ios.youtube",
-            "bundleName": "YouTubeUnstable.app",
+            "bundleName": "YouTubeUnstablex.app",
             "developerName": "Youtube",
-            "subtitle": "Youtube n0-ads, injected with TizenTube",
+            "subtitle": "Youtube n0-ads, injected with TizenTube. Will always say GET",
             "localizedDescription": "Youtube n0-ads, injected with TizenTube",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/yoi.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/yoh.png?raw=true",
@@ -703,7 +680,7 @@
             "bundleName": "PPSSPPx.app",
             "developerName": "PPSSPP",
             "subtitle": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT",
-            "localizedDescription": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT. Will always say GET",
+            "localizedDescription": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT. Crashes on launch on ATV HD. Need to fix idk. Will always say GET",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psi.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psh.png?raw=true",
             "tintColor": "#60DF89",
