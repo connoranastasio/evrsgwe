@@ -40,10 +40,10 @@
 	{
             "name": "Streamer Apple TV v1.3.0(24)",
             "bundleIdentifier": "com.streamerapp.ios",
-            "bundleName": "Streamer.app",
+            "bundleName": "Streamerx.app",
             "developerName": "TheOnlyMo",
             "subtitle": "Streamer on your AppleTV dude.",
-            "localizedDescription": "Newer version , after github DMCA.",
+            "localizedDescription": "Newer version , after github DMCA. Will always say GET.",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
             "tintColor": "#60DF89",
@@ -412,6 +412,29 @@
             "appPermissions": {}
         },
 	{
+	    "name": "ReactTube v0.1.2",
+            "bundleIdentifier": "com.duell10111.reacttube",
+            "bundleName": "reacttube.app",
+            "developerName": "ReactTube",
+            "subtitle": "A YT alternative for AppleTV, no ads!",
+            "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rti.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/rth.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "0.1.2",
+                  "date": "2024",
+                  "localizedDescription": "ReactTube v0.1.2, YT no ads alternative",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/rt.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
 	    "name": "Sling v5.21.2 official",
             "bundleIdentifier": "com.dishdigital.sling",
             "bundleName": "Sling.app",
@@ -654,9 +677,9 @@
 	{
 	    "name": "PPSSPP v1.11.3-635 Unsandboxed",
             "bundleIdentifier": "org.marekvi.ppsspp",
-            "bundleName": "PPSSPP.app",
+            "bundleName": "PPSSPPx.app",
             "developerName": "PPSSPP",
-            "subtitle": "Early PPSSPP build for AppleTV. Works, but holding circle on pad too long returns to springboard",
+            "subtitle": "Early PPSSPP build for AppleTV. Works, but holding circle on pad too long returns to springboard. Will always say GET",
             "localizedDescription": "Early PPSSPP build for AppleTV, works but holding circle on pad too long returns to springboard.",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psi.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psh.png?raw=true",
@@ -677,10 +700,10 @@
 	{
 	    "name": "PPSSPP FIXED Unsandboxed Trollstore Auto-JIT",
             "bundleIdentifier": "com.dx232dx23",
-            "bundleName": "PPSSPP.app",
+            "bundleName": "PPSSPPx.app",
             "developerName": "PPSSPP",
             "subtitle": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT",
-            "localizedDescription": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT",
+            "localizedDescription": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT. Will always say GET",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psi.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psh.png?raw=true",
             "tintColor": "#60DF89",
