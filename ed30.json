@@ -38,6 +38,35 @@
             "appPermissions": {}
         },
 	{
+            "name": "Streamer Apple TV v1.3.0(24)",
+            "bundleIdentifier": "com.streamer.tvos",
+            "bundleName": "Streamerx.app",
+            "developerName": "TheOnlyMo",
+            "subtitle": "Streamer on your AppleTV dude.",
+            "localizedDescription": "Newer version , after github DMCA.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+        "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
+        "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
+        "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
+        "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
+        "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
+        "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
+            ],
+            "versions": [
+                {
+                  "version": "1.3.0",
+                  "date": "2024",
+                  "localizedDescription": "Streamer on your AppleTV dude.",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/str130.ipa",
+                  "size": 144082146
+                }
+              ],
+            "appPermissions": {}
+        },
+	{
 	    "name": "TiviMax v3.4.5",
             "bundleIdentifier": "com.tivimax.premium",
             "bundleName": "TiviMaxTVx.app",
@@ -544,6 +573,29 @@
             "appPermissions": {}
         },
 	{
+	    "name": "Youtube v4.50.03 n0-ads****",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "bundleName": "YouTubeUnstable.app",
+            "developerName": "Youtube",
+            "subtitle": "Youtube n0-ads, injected with TizenTube",
+            "localizedDescription": "Youtube n0-ads, injected with TizenTube",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/yoi.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/yoh.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "4.50.03",
+                  "date": "2024",
+                  "localizedDescription": "Youtube n0-ads, injected with TizenTube",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/wuklbra.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
 	    "name": "RetroArchTV STABLE v1.19.1",
             "bundleIdentifier": "com.libretro.dist.tvos.RetroArch",
             "bundleName": "RetroArchTVx.app",
@@ -640,6 +692,29 @@
                   "date": "2024",
                   "localizedDescription": "Early PPSSPP build for AppleTV. Works, but holding circle on pad too long returns to springboard",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/pp.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "PPSSPP FIXED Unsandboxed Trollstore Auto-JIT",
+            "bundleIdentifier": "com.dx232dx23",
+            "bundleName": "PPSSPP.app",
+            "developerName": "PPSSPP",
+            "subtitle": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT",
+            "localizedDescription": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psi.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/psh.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+          	],
+            "versions": [
+                {
+                  "version": "",
+                  "date": "2024",
+                  "localizedDescription": "PPSSPP with FIXED controls, Unsandboxed Trollstore Auto-JIT",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/ppsspfix.ipa",
                   "size": 144082146
 		}
               ],
