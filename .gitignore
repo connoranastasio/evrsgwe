@@ -1,3 +1,7 @@
+# former lfs files we are migrating to releases
+inf818.tipa
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
