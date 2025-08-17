@@ -334,7 +334,7 @@
     },
     {
       "name": "Infuse PRO v7.7.1 cr@cked",
-      "bundleIdentifier": "com.firecore.infuse",
+      "bundleIdentifier": "com.firecore.infuse7",
       "bundleName": "infvuse.app",
       "developerName": "Infuse",
       "subtitle": "Infuse PRO v7.7.1 cr@cked. Will always say GET.",
@@ -359,7 +359,7 @@
       "bundleIdentifier": "com.firecore.infuse",
       "bundleName": "infvuse.app",
       "developerName": "Infuse",
-      "subtitle": "Infuse PRO v7.7.1 cr@cked",
+      "subtitle": "Infuse PRO v8.1.8 cr@cked",
       "localizedDescription": "<Req tvOS 15.0> Infuse PRO v8.1.8 cr@cked. Will always say GET.",
       "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ini.png?raw=true",
       "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/inh.png?raw=true",
@@ -371,7 +371,7 @@
           "date": "2025",
           "localizedDescription": "<Req tvOS 15.0> Infuse PRO v8.1.8 cr@cked. Will always say GET.",
           "downloadURL": "https://github.com/connoranastasio/evrsgwe/releases/latest/download/inf818.tipa",
-          "size": 144082146
+          "size": 118795989
         }
       ],
       "appPermissions": {}
