@@ -9,7 +9,7 @@
     "featuredApps": ["com.streamer.tvos"],
     "apps": [
         {
-            "name": "Streamer Apple TV LATEST FORCE-GET",
+            "name": "Streamer Apple TV LATEST FORCE-GET (post dmca)",
             "bundleIdentifier": "com.streamer.tvos",
             "bundleName": "Streamerx.app",
             "developerName": "TheOnlyMo",
@@ -31,7 +31,7 @@
                   "version": "latest",
                   "date": "2024",
                   "localizedDescription": "Streamer on your AppleTV dude.",
-                  "downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-tvOS.ipa",
+                  "downloadURL": "https://github.com/StreamerApp/App/releases/latest/download/Streamer-tvOS.ipa",
                   "size": 144082146
                 }
               ],
@@ -205,6 +205,29 @@
             "appPermissions": {}
         },
 	{
+	    "name": "Crave v3.111.0 Spoofed for tvOS 16.x EoL",
+            "bundleIdentifier": "ca.bellmedia.cravetv",
+            "bundleName": "BondtvOS.app",
+            "developerName": "Crave",
+            "subtitle": "Crave v3.111.0 Spoofed for tvOS 16.x EoL",
+            "localizedDescription": "<Req. minimum tvOS 16.0> Spoofed to work for tvOS 16.0 and higher.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/cri.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/crh.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "9.999.9",
+                  "date": "2025",
+                  "localizedDescription": "<Req. minimum tvOS 16.0> Spoofed to work for tvOS 16.0 and higher.",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/cr31110.tipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
 	    "name": "CTV v5.53.0 FIXED for tvOS 16.x EoL",
             "bundleIdentifier": "ca.ctv.ctvipadapp",
             "bundleName": "CTVtvOS.app",
@@ -222,6 +245,52 @@
                   "date": "2024",
                   "localizedDescription": "<Req. minimum tvOS 16.0> Spoofed to work for tvOS ALL 16.x",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/vtc.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Disney Plus v3.7.0 Spoofed for tvOS 16.x EoL",
+            "bundleIdentifier": "com.disney.disneyplus",
+            "bundleName": "DovminguezTV.app",
+            "developerName": "DisneyPlus",
+            "subtitle": "Disney Plus v3.7.0 Spoofed for tvOS 16.x EoL",
+            "localizedDescription": "<Req. minimum tvOS 16.0> Spoofed to work for ALL tvOS 16.x. Bypasses BS you need to update nag. Will always say GET.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/dii.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/dih.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "9.9.9",
+                  "date": "2024",
+                  "localizedDescription": "<Req. min. tvOS 16.0> Spoofed to work for tvOS ALL 16.x. Bypasses update nag. Will always say GET.",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/d370.tipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Disney Plus v4.2.0 Spoofed for tvOS 16.x EoL",
+            "bundleIdentifier": "com.disney.disneyplus",
+            "bundleName": "DovminguezTV.app",
+            "developerName": "DisneyPlus",
+            "subtitle": "Disney Plus v4.2.0 Spoofed for tvOS 16.x EoL",
+            "localizedDescription": "<Req. min. tvOS 16.0> Spoofed to work for ALL tvOS 16.x. YMMV, use other v3.7.0 if this crashes on launch. Bypasses BS you need to update nag. Will always say GET.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/dii.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/dih.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "9.9.9",
+                  "date": "2024",
+                  "localizedDescription": "<Req. minimum tvOS 16.0> Spoofed to work for tvOS ALL 16.x. Bypasses update nag. Will always say GET.",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/d420.tipa",
                   "size": 144082146
 		}
               ],
@@ -276,10 +345,10 @@
 	{
 	    "name": "Infuse PRO v7.7.1 cr@cked",
             "bundleIdentifier": "com.firecore.infuse",
-            "bundleName": "infuse.app",
+            "bundleName": "infvuse.app",
             "developerName": "Infuse",
-            "subtitle": "Infuse PRO v7.7.1 cr@cked",
-            "localizedDescription": "Infuse PRO v7.7.1 cr@cked.",
+            "subtitle": "Infuse PRO v7.7.1 cr@cked. Will always say GET.",
+            "localizedDescription": "Infuse PRO v7.7.1 cr@cked. Will always say GET.",
             "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ini.png?raw=true",
             "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/inh.png?raw=true",
             "tintColor": "#60DF89",
@@ -289,8 +358,31 @@
                 {
                   "version": "7.7.1",
                   "date": "2024",
-                  "localizedDescription": "Infuse PRO v7.7.1 cr@cked",
+                  "localizedDescription": "Infuse PRO v7.7.1 cr@cked. Will always say GET",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/in.tipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "Infuse PRO v8.1.8 cr@cked",
+            "bundleIdentifier": "com.firecore.infuse",
+            "bundleName": "infvuse.app",
+            "developerName": "Infuse",
+            "subtitle": "Infuse PRO v7.7.1 cr@cked",
+            "localizedDescription": "<Req tvOS 15.0> Infuse PRO v8.1.8 cr@cked. Will always say GET.",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ini.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/inh.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "8.1.8",
+                  "date": "2025",
+                  "localizedDescription": "<Req tvOS 15.0> Infuse PRO v8.1.8 cr@cked. Will always say GET.",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/inf818.tipa",
                   "size": 144082146
 		}
               ],
@@ -567,6 +659,29 @@
                   "date": "2024",
                   "localizedDescription": "Youtube n0-ads, injected with TizenTube",
                   "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/wuklbra.ipa",
+                  "size": 144082146
+		}
+              ],
+            "appPermissions": {}
+        },
+	{
+	    "name": "(Kick) Stream Companion App v1.0.18",
+            "bundleIdentifier": "app.streamcompanion",
+            "bundleName": "StreamCompanionApp.app",
+            "developerName": "Kick",
+            "subtitle": "Homebrew app to watch Kick streams",
+            "localizedDescription": "Homebrew app to watch Kick streams",
+            "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/kii.png?raw=true",
+            "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/kih.png?raw=true",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.0.18",
+                  "date": "2024",
+                  "localizedDescription": "Homebrew app to watch Kick streams",
+                  "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/sc1018.tipa",
                   "size": 144082146
 		}
               ],
