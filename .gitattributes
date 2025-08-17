@@ -1,3 +1,5 @@
+*.png filter=lfs diff=lfs merge=lfs -text
+*.tipa filter=lfs diff=lfs merge=lfs -text
+*.ipa filter=lfs diff=lfs merge=lfs -text
 *.ipa !text !filter !merge !diff
 *.png !text !filter !merge !diff
-*.tipa filter=lfs diff=lfs merge=lfs -text
