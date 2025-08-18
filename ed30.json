@@ -334,7 +334,7 @@
     },
     {
       "name": "Infuse PRO v7.7.1 cr@cked",
-      "bundleIdentifier": "com.firecore.infuse7",
+      "bundleIdentifier": "com.firecore.infuse",
       "bundleName": "infvuse.app",
       "developerName": "Infuse",
       "subtitle": "Infuse PRO v7.7.1 cr@cked. Will always say GET.",
@@ -367,7 +367,7 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "8.1.8",
+          "version": "latest",
           "date": "2025",
           "localizedDescription": "<Req tvOS 15.0> Infuse PRO v8.1.8 cr@cked. Will always say GET.",
           "downloadURL": "https://github.com/connoranastasio/evrsgwe/releases/latest/download/inf818.tipa",
