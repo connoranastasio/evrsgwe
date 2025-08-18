@@ -367,10 +367,10 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "latest",
+          "version": "1.0.0",
           "date": "2025",
           "localizedDescription": "<Req tvOS 15.0> Infuse PRO v8.1.8 cr@cked. Will always say GET.",
-          "downloadURL": "https://github.com/connoranastasio/evrsgwe/releases/latest/download/inf818.tipa",
+          "downloadURL": "https://github.com/connoranastasio/evrsgwe/releases/download/v1.0.0/inf818.tipa",
           "size": 118795989
         }
       ],
