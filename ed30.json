@@ -69,6 +69,35 @@
       "appPermissions": {}
     },
     {
+      "name": "Streamer Apple TV v2.0.1(17)",
+      "bundleIdentifier": "com.streamerapp.ios",
+      "bundleName": "Streamerx.app",
+      "developerName": "TheOnlyMo",
+      "subtitle": "Streamer on your AppleTV dude.",
+      "localizedDescription": "Newer version , after github DMCA. Will always say GET.",
+      "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/si.png?raw=true",
+      "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/sh.png?raw=true",
+      "tintColor": "#60DF89",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
+        "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
+        "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
+        "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
+        "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
+        "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
+      ],
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2025",
+          "localizedDescription": "Streamer on your AppleTV dude.",
+          "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/str201.ipa",
+          "size": 144082146
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
       "name": "TiviMax v3.4.5",
       "bundleIdentifier": "com.tivimax.premium",
       "bundleName": "TiviMaxTVx.app",
@@ -129,6 +158,50 @@
           "date": "2024",
           "localizedDescription": "Best IPTV Player for AppleTV",
           "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/eqrgljnbf.ipa",
+          "size": 144082146
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "iPlayTV v3.3.10",
+      "bundleIdentifier": "com.simpleiptv.client",
+      "bundleName": "iPlayTV.app",
+      "developerName": "iPlayTV",
+      "subtitle": "<Req min tvOS15.0> Good IPTV client, alternative to Tivimax",
+      "localizedDescription": "ipTV alternative to Tivimax",
+      "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/ipi.png?raw=true",
+      "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/iph.png?raw=true",
+      "tintColor": "#60DF89",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "3.3.10",
+          "date": "2024",
+          "localizedDescription": "<Req min tvOS15.0> Good IPTV client, alternative to Tivimax",
+          "downloadURL": "https://github.com/connoranastasio/evrsgwe/releases/download/v1.0.0/itv3310.tipa",
+          "size": 144082146
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Kodi v21.0",
+      "bundleIdentifier": "org.xbmc.kodi-tvos",
+      "bundleName": "Kodi.app",
+      "developerName": "Kodi",
+      "subtitle": "<Req min tvOS12.0> Kodi media player",
+      "localizedDescription": "Kodi media player",
+      "iconURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/koi.png?raw=true",
+      "headerURL": "https://github.com/connoranastasio/evrsgwe/blob/main/assets/koh.png?raw=true",
+      "tintColor": "#60DF89",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "21.0",
+          "date": "2024",
+          "localizedDescription": "<Req min tvOS12.0> Kodi media player",
+          "downloadURL": "https://github.com/connoranastasio/evrsgwe/releases/download/v1.0.0/k210.tipa",
           "size": 144082146
         }
       ],
@@ -414,7 +487,7 @@
           "version": "2.9.1",
           "date": "2024",
           "localizedDescription": "Netflix v2.9.1 decrypted - Official",
-          "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/nx.ipa",
+          "downloadURL": "https://github.com/connoranastasio/evrsgwe/raw/main/nx.tipa",
           "size": 144082146
         }
       ],
